@@ -5,5 +5,5 @@ import { Component } from '@angular/core';
   template:'{{title}}',
 })
 export class AppComponent {
-  title:string = 'vasanth';
+  title:string = 'vasanthsanth';
 }
