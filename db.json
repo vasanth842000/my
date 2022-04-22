@@ -1,0 +1,36 @@
+{
+  "Students": [
+    {
+      "firstName": "vasanth",
+      "lastName": "A",
+      "city": "Theni",
+      "role": "Fullstack developer",
+      "location": "Uk",
+      "id": 3
+    },
+    {
+      "firstName": "virat",
+      "lastName": "k",
+      "city": "delhi",
+      "role": "Backend developer",
+      "location": "German",
+      "id": 4
+    },
+    {
+      "firstName": "sanjeev",
+      "lastName": "s",
+      "city": "chennai",
+      "role": "Frontend developer",
+      "location": "US",
+      "id": 5
+    },
+    {
+      "firstName": "vinoth",
+      "lastName": "n",
+      "city": "erode",
+      "role": "frontend developer",
+      "location": "chennai",
+      "id": 6
+    }
+  ]
+}
