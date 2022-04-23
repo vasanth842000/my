@@ -6,10 +6,12 @@ import { FirstComponent } from './first/first.component';
 import {HttpClientModule} from '@angular/common/http';
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { StudentService } from './service/student.service';
+import { LoginpageComponent } from './loginpage/loginpage.component';
 @NgModule({
   declarations: [
     AppComponent,
-    FirstComponent
+    FirstComponent,
+    LoginpageComponent
   ],
   imports: [
     BrowserModule,
